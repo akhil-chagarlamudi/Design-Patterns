@@ -27,7 +27,7 @@ abstract class Processor {
 	public void process(Number request) {
 		if (nextProcessor != null)
 			nextProcessor.process(request);
-	};
+	}
 }
 
 class Number {
