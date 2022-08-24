@@ -9,7 +9,7 @@ class SingletonPattern {
     private SingletonPattern() {      
     }
    // getInstance() method is used to get the only object of this class
-    public static SingletonPattern getInstance() {
+    public static SingletonPattern getInstance() { // Lazy Instantiation is used
  
        // create object if it's not already created
        if(sobj == null) {
