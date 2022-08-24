@@ -30,7 +30,7 @@ class Circle implements Shape {
     }
 }
 class ShapeMaker {
-    private Circle circle;
+    private Shape circle;
     private Shape rectangle;
     private Shape square;
 

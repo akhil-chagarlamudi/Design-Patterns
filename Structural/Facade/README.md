@@ -3,5 +3,6 @@
 
 ##Resources to refer
 
-link -> https://www.tutorialspoint.com/design_pattern/facade_pattern.htm
+link 1 -> https://www.tutorialspoint.com/design_pattern/facade_pattern.htm
+link 2 -> https://www.geeksforgeeks.org/facade-design-pattern-introduction/
 
