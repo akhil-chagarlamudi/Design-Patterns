@@ -3,11 +3,11 @@ package Creational.Factory.src;
 import java.util.Scanner;
 
 interface  Animal {
-    abstract String getAnimal();
+    String getAnimal();
 
-    abstract String makeSound();
+    String makeSound();
 
-    abstract String lifeSpan();
+    String lifeSpan();
 }
 
 class Lion implements Animal {
