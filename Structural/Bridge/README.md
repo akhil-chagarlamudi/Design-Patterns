@@ -8,3 +8,6 @@
 ##With
 
 ![gfg_with](https://user-images.githubusercontent.com/89591371/186353807-32933315-5405-49f0-a2e4-33e7d8d3f1cb.png)
+
+For More Details 
+Check out - https://www.geeksforgeeks.org/bridge-design-pattern/
